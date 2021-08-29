@@ -1,3 +1,10 @@
+---
+layout: work_records
+permalink: /work_records/
+---
+
+{% include toc %}
+
 
 ## Work Records
 
